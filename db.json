@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "komal",
+      "email": "komal@gmail.com",
+      "phone": "1234567891"
+    },
+    {
+      "name": "Akash",
+      "email": "akash@gmail.com",
+      "phone": "1458963215",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "neha",
+      "email": "neha@gmail.com",
+      "phone": "1563254789",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "komal",
+      "email": "komal@gmail.com",
+      "phone": "589632147",
+      "id": 5
+    },
+    {
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "phone": "1597534565",
+      "active": true,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "atul",
+      "email": "atul@gmail.com",
+      "phone": "1593697895",
+      "active": true
+    }
+  ]
+}
